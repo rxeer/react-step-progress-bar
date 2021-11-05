@@ -1,5 +1,5 @@
 <h1 align="center">
-  React Step Progress Bar 🌡
+  React Stepi Bar
 </h1>
 
 <h4 align="center">A library to create stunning progress bars and steps in React.</h4>
@@ -11,25 +11,25 @@
 </p>
 
 <p align="center" >
-  <a title="npm version" href="https://www.npmjs.com/package/react-step-progress-bar">
-    <img alt="npm version" src="https://badge.fury.io/js/react-step-progress-bar.svg"/>
+  <a title="npm version" href="https://www.npmjs.com/package/react-stepi-bar">
+    <img alt="npm version" src="https://badge.fury.io/js/react-stepi-bar.svg"/>
   </a>
-  <a title='License' href="https://github.com/pierreericgarcia/react-step-progress-bar/blob/master/LICENSE">
+  <a title='License' href="https://github.com/pierreericgarcia/react-stepi-bar/blob/master/LICENSE">
     <img src='https://img.shields.io/badge/license-MIT-blue.svg' />
   </a>
-   <a title='build' href="https://travis-ci.org/pierreericgarcia/react-step-progress-bar">
-    <img src='https://travis-ci.org/pierreericgarcia/react-step-progress-bar.svg?branch=master' />
+   <a title='build' href="https://travis-ci.org/pierreericgarcia/react-stepi-bar">
+    <img src='https://travis-ci.org/pierreericgarcia/react-stepi-bar.svg?branch=master' />
   </a>
   <a title='Greenkeeper' href="https://greenkeeper.io/">
-    <img src='https://badges.greenkeeper.io/pierreericgarcia/react-step-progress-bar.svg' />
+    <img src='https://badges.greenkeeper.io/pierreericgarcia/react-stepi-bar.svg' />
   </a>
 </p>
 
 <p align="center" >
-  📚 <a href="https://pierreericgarcia.github.io/react-step-progress-bar">READ THE DOCS</a> 📚
+  📚 <a href="https://pierreericgarcia.github.io/react-stepi-bar">READ THE DOCS</a> 📚
 </p>
 <p align="center" >
-  🌐 <a href="https://pierreericgarcia.github.io/react-step-progress-bar/examples">LIVE EXAMPLES</a> 🌐
+  🌐 <a href="https://pierreericgarcia.github.io/react-stepi-bar/examples">LIVE EXAMPLES</a> 🌐
 </p>
 
 ## Key Features
@@ -43,18 +43,18 @@
 To use this library, you'll need the [npm](http://npmjs.com) CLI installed on your computer. From your command line, using npm:
 
 ```bash
-npm install --save react-step-progress-bar
+npm install --save react-stepi-bar
 ```
 
 Or using yarn:
 
 ```bash
-yarn add react-step-progress-bar
+yarn add react-stepi-bar
 ```
 
 ## Examples
 
-For more examples take a look at the [official website](https://pierreericgarcia.github.io/react-step-progress-bar).
+For more examples take a look at the [official website](https://pierreericgarcia.github.io/react-stepi-bar).
 
 ### Simple progress bar
 
@@ -62,8 +62,8 @@ This example demonstrate how to create a simple progress bar.
 
 ```jsx
 import React from "react";
-import "react-step-progress-bar/styles.css";
-import { ProgressBar } from "react-step-progress-bar";
+import "react-stepi-bar/styles.css";
+import { ProgressBar } from "react-stepi-bar";
 
 class ProgressBar extends React.Component {
   render() {
@@ -83,8 +83,8 @@ This example demonstrate how to create your own progress bar with steps.
 
 ```jsx
 import React from "react";
-import "react-step-progress-bar/styles.css";
-import { ProgressBar, Step } from "react-step-progress-bar";
+import "react-stepi-bar/styles.css";
+import { ProgressBar, Step } from "react-stepi-bar";
 
 class StepProgressBar extends React.Component {
   render() {
@@ -128,10 +128,10 @@ class StepProgressBar extends React.Component {
 
 ## Guides
 
-If you want an in-depth view of how to create your own custom steps and custom step transitions, the [official website](https://pierreericgarcia.github.io/react-step-progress-bar/) have some dedicated guides.
+If you want an in-depth view of how to create your own custom steps and custom step transitions, the [official website](https://pierreericgarcia.github.io/react-stepi-bar/) have some dedicated guides.
 
-- [Create your custom step](https://pierreericgarcia.github.io/react-step-progress-bar/docs/custom-step-guide)
-- [Create your own step transition](https://pierreericgarcia.github.io/react-step-progress-bar/docs/step-transition-guide)
+- [Create your custom step](https://pierreericgarcia.github.io/react-stepi-bar/docs/custom-step-guide)
+- [Create your own step transition](https://pierreericgarcia.github.io/react-stepi-bar/docs/step-transition-guide)
 
 ## API
 

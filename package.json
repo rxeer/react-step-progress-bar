@@ -1,6 +1,6 @@
 {
-  "name": "react-step-progress-bar",
-  "version": "1.0.3",
+  "name": "react-stepi-bar",
+  "version": "1.0.1",
   "description": "A library to create stunning progress bars and steps in React.",
   "keywords": [
     "reactjs",
@@ -11,12 +11,12 @@
     "progress bar",
     "react progress bar",
     "react-progress-bar",
-    "react-step-progress-bar",
+    "react-stepi-bar",
     "react.js",
     "react library",
     "react component"
   ],
-  "homepage": "https://github.com/pierreericgarcia/react-step-progress-bar",
+  "homepage": "https://github.com/pierreericgarcia/react-stepi-bar",
   "license": "MIT",
   "main": "index.js",
   "peerDependencies": {
@@ -38,8 +38,8 @@
     "prepublish": "npm run build"
   },
   "author": {
-    "name": "Pierre-Eric Garcia",
-    "email": "garciapierreeric@gmail.com"
+    "name": "rxeer",
+    "email": "andrey.kiri4encko@gmail.com"
   },
   "devDependencies": {
     "@babel/core": "^7.16.0",
