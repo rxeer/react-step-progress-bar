@@ -1,4 +1,4 @@
 {
-  "presets": ["env", "react", "flow"],
+  "presets": ["@babel/preset-env", "@babel/react", "@babel/preset-flow"],
   "retainLines": true
 }
