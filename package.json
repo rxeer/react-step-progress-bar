@@ -16,7 +16,7 @@
     "react library",
     "react component"
   ],
-  "homepage": "https://github.com/pierreericgarcia/react-stepi-bar",
+  "homepage": "https://github.com/rxeer/react-stepi-bar",
   "license": "MIT",
   "main": "index.js",
   "peerDependencies": {
